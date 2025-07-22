@@ -1,0 +1,14 @@
+C:\Users\Victor\Documents\Exercicios Programação\SimuladorCaixaEletronico\bin\Debug\net9.0\SimuladorCaixaEletronico.exe
+C:\Users\Victor\Documents\Exercicios Programação\SimuladorCaixaEletronico\bin\Debug\net9.0\SimuladorCaixaEletronico.deps.json
+C:\Users\Victor\Documents\Exercicios Programação\SimuladorCaixaEletronico\bin\Debug\net9.0\SimuladorCaixaEletronico.runtimeconfig.json
+C:\Users\Victor\Documents\Exercicios Programação\SimuladorCaixaEletronico\bin\Debug\net9.0\SimuladorCaixaEletronico.dll
+C:\Users\Victor\Documents\Exercicios Programação\SimuladorCaixaEletronico\bin\Debug\net9.0\SimuladorCaixaEletronico.pdb
+C:\Users\Victor\Documents\Exercicios Programação\SimuladorCaixaEletronico\obj\Debug\net9.0\SimuladorCaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Documents\Exercicios Programação\SimuladorCaixaEletronico\obj\Debug\net9.0\SimuladorCaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\Victor\Documents\Exercicios Programação\SimuladorCaixaEletronico\obj\Debug\net9.0\SimuladorCaixaEletronico.AssemblyInfo.cs
+C:\Users\Victor\Documents\Exercicios Programação\SimuladorCaixaEletronico\obj\Debug\net9.0\SimuladorCaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Documents\Exercicios Programação\SimuladorCaixaEletronico\obj\Debug\net9.0\SimuladorCaixaEletronico.dll
+C:\Users\Victor\Documents\Exercicios Programação\SimuladorCaixaEletronico\obj\Debug\net9.0\refint\SimuladorCaixaEletronico.dll
+C:\Users\Victor\Documents\Exercicios Programação\SimuladorCaixaEletronico\obj\Debug\net9.0\SimuladorCaixaEletronico.pdb
+C:\Users\Victor\Documents\Exercicios Programação\SimuladorCaixaEletronico\obj\Debug\net9.0\SimuladorCaixaEletronico.genruntimeconfig.cache
+C:\Users\Victor\Documents\Exercicios Programação\SimuladorCaixaEletronico\obj\Debug\net9.0\ref\SimuladorCaixaEletronico.dll
